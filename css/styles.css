@@ -1134,6 +1134,11 @@ img {
 
   .logo-paragraph-footer {
     margin-right: 86px;
+    margin-bottom: 0px;
+  }
+
+  .icons-box-footer {
+    margin: 0;
   }
 
   .social-icons-footer {
