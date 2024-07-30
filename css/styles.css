@@ -264,7 +264,7 @@ img {
   .header-contact-link:hover,
   .header-contact-link:focus {
     color: #404bbf;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
@@ -1132,6 +1132,14 @@ img {
 
   .logo-paragraph-footer {
     margin-right: 86px;
+  }
+
+  .social-icons-footer {
+    margin: 0 auto;
+  }
+
+  .call-paragraph-footer {
+    margin-bottom: 0;
   }
 }
 
